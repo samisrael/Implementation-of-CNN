@@ -7,11 +7,13 @@ To Develop a convolutional deep neural network for digit classification.
 ## Problem Statement and Dataset
 The task involves developing a convolutional neural network (CNN) to classify handwritten digits from the MNIST dataset. The process includes loading and inspecting the dataset, defining a CNN model using TensorFlow, and applying preprocessing steps such as reshaping and normalizing the image data. The objective is to achieve high accuracy by implementing an early stopping callback that terminates training once the model reaches 99.5% accuracy. The goal is to build and train a CNN that effectively recognizes and classifies MNIST digits with optimal performance.
 
+
 ![image](https://github.com/user-attachments/assets/ff7c4c76-32f3-47c6-bfc4-1b4134ccb96f)
 
 ## Neural Network Model
 
-![image](./images/network.png)
+![nn](https://github.com/user-attachments/assets/01b715c7-c420-4d39-8420-593bbc7945af)
+
 
 ## DESIGN STEPS
 
